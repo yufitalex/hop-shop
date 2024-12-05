@@ -15,7 +15,7 @@ import {PayPalScriptProvider} from '@paypal/react-paypal-js'
 import {HelmetProvider} from'react-helmet-async'
 import HomeScreen from "./pages/HomeScreen.jsx";
 import ProductScreen from "./pages/ProductScreen.jsx";
-import CartScreen from "./pages/cartScreen.jsx";
+import CartScreen from "./pages/CartScreen.jsx";
 import LoginScreen from "./pages/LoginScreen.jsx";
 import RegisterScreen from "./pages/RegisterScreen.jsx";
 import ShippingScreen from "./pages/ShippingScreen.jsx";
